@@ -1,0 +1,21 @@
+message,label
+"Your bank account is blocked verify your password now",phishing
+"Congratulations you won a free prize click this link",phishing
+"Urgent update your account details immediately",phishing
+"Claim your reward by entering your bank details",phishing
+"Your account will close click here to verify",phishing
+"Verify your identity to receive your free gift",phishing
+"Your password expired login through this link",phishing
+"You won a lottery send your account information",phishing
+"Click here to claim your cash reward",phishing
+"Suspicious activity detected verify your account now",phishing
+"Hi are we meeting at college tomorrow",safe
+"Please send me the class notes",safe
+"The assignment submission is tomorrow",safe
+"Thank you for helping me with the project",safe
+"Your meeting is scheduled for ten in the morning",safe
+"Please call me when you reach home",safe
+"The lecture starts at nine tomorrow",safe
+"I have shared the project document with you",safe
+"Are you coming to college today",safe
+"Please check the timetable in the college group",safe
